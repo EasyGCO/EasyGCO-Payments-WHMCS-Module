@@ -1,0 +1,22 @@
+{
+    "schema": "1.0",
+    "type": "easygco-payments-whmcs-module",
+    "name": "EasyGCO Payments Module for WHMCS",
+    "license": "Apache-2.0",
+    "category": "gateway",
+    "description": {
+        "name": "EasyGCO Payments Module for the WHMCS Billing Automation Platform",
+        "tagline": "EasyGCO Payments Module allows you to accept payments via EasyGCO in WHMCS platform."
+    },
+    "support": {
+        "homepage": "https:\/\/easygco.com\/",
+        "email": "github@easygco.com",
+        "documentation": "https:\/\/docs.easygco.com\/"
+    },
+    "authors": [
+        {
+            "name": "EasyGCO",
+            "homepage": "https:\/\/easygco.com\/"
+        }
+    ]
+}
